@@ -1,8 +1,8 @@
 // The Blink Project .
 
-// The Main Code OF The Blink Project . .C
-
 // In this program, We wrote a Flashing Light program using an Arduino UNO Board and an LED .
+
+// The Main Code OF The Blink Project . .INO .
 
 
 
